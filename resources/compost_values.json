@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "id": "CROPIE",
+            "value": 2500
+        },
+        {
+            "id": "SQUASH",
+            "value": 10000
+        },
+        {
+            "id": "FERMENTO",
+            "value": 20000
+        },
+        {
+            "id": "CONDENSED_FERMENTO",
+            "value": 180000
+        },        
+        {
+            "id": "WHEAT",
+            "value": 1
+        },
+        {
+            "id": "HAY_BALE",
+            "value": 9
+        },
+        {
+            "id": "ENCHANTED_BREAD",
+            "value": 60
+        },
+        {
+            "id": "ENCHANTED_HAY_BALE",
+            "value": 1296
+        },
+        {
+            "id": "TIGHTLY_KNIT_HAY_BALE",
+            "value": 186624
+        }
+    ]
+}

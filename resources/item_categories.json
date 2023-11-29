@@ -1,0 +1,25 @@
+{
+    "categories": [
+        "farming",
+        "mining",
+        "foraging",
+        "combat",
+        "fishing",
+        "alchemy",
+        "enchanting",
+        "carpentry",
+        "rune_crafting",
+        "social",
+        "taming"
+    ],
+
+    "sub_categories": [
+        "slayer",
+        "garden",
+        "dungeoneering",
+        "crimson_isle",
+        "end_island",
+        "dwarven_mines",
+        "crystal_hollows"
+    ]
+}
